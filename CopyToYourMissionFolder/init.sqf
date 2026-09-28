@@ -41,4 +41,4 @@ ollama_talk_chatId = addMissionEventHandler ["HandleChatMessage", {
     false 
 }]; 
  
-systemChat "Chat listener installed - stand within 5m of a man and type something";
+systemChat "Chat listener installed - stand within 5m of a man and type something"; 
