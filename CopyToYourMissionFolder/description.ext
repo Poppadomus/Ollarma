@@ -1,0 +1,3 @@
+class CfgFunctions {
+    #include "ollama_talk\CfgFunctions.hpp"
+};
